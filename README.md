@@ -23,4 +23,4 @@ access_token.json
 wechat_verify.php
 功能：用于微信公众平台验证服务器的有效性。可用于接入微信接口时的服务器验证。
 
-History 调试文件
+
