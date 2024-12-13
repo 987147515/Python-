@@ -1,0 +1,21 @@
+[0;1;32m●[0m cron.service - Regular background program processing daemon
+     Loaded: loaded (/lib/systemd/system/cron.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (running)[0m since Sat 2024-12-07 21:51:16 CST; 3h 30min ago
+       Docs: man:cron(8)
+   Main PID: 981 (cron)
+      Tasks: 1 (limit: 1988)
+     Memory: 448.0K
+        CPU: 67ms
+     CGroup: /system.slice/cron.service
+             └─981 /usr/sbin/cron -f -P
+
+Dec 08 01:17:01 hcss-ecs-f866 CRON[26512]: pam_unix(cron:session): session closed for user root
+Dec 08 01:20:01 hcss-ecs-f866 cron[981]: (root) RELOAD (crontabs/root)
+Dec 08 01:20:01 hcss-ecs-f866 CRON[26803]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 08 01:20:01 hcss-ecs-f866 CRON[26804]: (root) CMD (/usr/bin/watch -n 10 /usr/bin/python3 /www/wwwroot/default/WechatTest/SendALL.py >> /www/wwwroot/default/WechatTest/logs/send_all.log 2>&1)
+Dec 08 01:20:01 hcss-ecs-f866 CRON[26803]: (CRON) info (No MTA installed, discarding output)
+Dec 08 01:20:01 hcss-ecs-f866 CRON[26803]: pam_unix(cron:session): session closed for user root
+Dec 08 01:21:01 hcss-ecs-f866 CRON[26883]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 08 01:21:01 hcss-ecs-f866 CRON[26884]: (root) CMD (/usr/bin/watch -n 10 /usr/bin/python3 /www/wwwroot/default/WechatTest/SendALL.py >> /www/wwwroot/default/WechatTest/logs/send_all.log 2>&1)
+Dec 08 01:21:01 hcss-ecs-f866 CRON[26883]: (CRON) info (No MTA installed, discarding output)
+Dec 08 01:21:01 hcss-ecs-f866 CRON[26883]: pam_unix(cron:session): session closed for user root

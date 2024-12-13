@@ -1,0 +1,698 @@
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758101657935282178}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758101670434095104}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758101865603661825}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758101875954991104}
+Error opening terminal: unknown.
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102069765603330}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102081677213696}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102276293132289}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102287986638849}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102483038765059}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102494094737409}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102688140230660}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102699145871360}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102893308805121}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758102903911792640}
+Error opening terminal: unknown.
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103096782880773}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103106999992320}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103300324065280}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103311262597122}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103506885148674}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103516699607043}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103710325669888}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103721868181507}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103917121634304}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758103928009834496}
+Error opening terminal: unknown.
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104120377606146}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104130275950593}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104325277745152}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104337206132739}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104531083853824}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104540948643842}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104736571195394}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104748415696900}
+Error opening terminal: unknown.
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104943853699072}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758104954641235969}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105148938387460}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105157964316672}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105351338721280}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105362763792387}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105555047677953}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105566405640192}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105760132366339}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105770735353857}
+Error opening terminal: unknown.
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105964260753408}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758105973957771265}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758106169295110146}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758106180183310336}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758106374665011203}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758106385955864577}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758106580236238851}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758106589832593414}
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758106783676760066}
+Data to send: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Weather Data to send: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024-12-08", "color": "#FF99CC"}, "weather": {"value": "多云", "color": "#EA0000"}, "temperature_highest": {"value": "10°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "273天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "234天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "242天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3758106794481074177}
+Error opening terminal: unknown.
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 67548746-300ae42a-223346c1'}
+Error fetching openid: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 67548746-300ae42a-223346c1'}
+All OpenIDs: []
+当前没有用户关注该公众号！
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 67548751-54f0f87b-5a87a47e'}
+Error fetching openid: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 67548751-54f0f87b-5a87a47e'}
+All OpenIDs: []
+当前没有用户关注该公众号！
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 6754875b-0056bfd8-1c0aa588'}
+Error fetching openid: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 6754875b-0056bfd8-1c0aa588'}
+All OpenIDs: []
+当前没有用户关注该公众号！
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 67548766-5d622c5f-3d4ee1a1'}
+Error fetching openid: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 67548766-5d622c5f-3d4ee1a1'}
+All OpenIDs: []
+当前没有用户关注该公众号！
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 67548771-3f0b193c-3539bac1'}
+Error fetching openid: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 67548771-3f0b193c-3539bac1'}
+All OpenIDs: []
+当前没有用户关注该公众号！
+Time.py Output: {"date_together": 273, "days_to_liao_birthday": 234, "days_to_wang_birthday": 242}
+
+Data from Time.py: {'date_together': 273, 'days_to_liao_birthday': 234, 'days_to_wang_birthday': 242}
+Raw Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024-12-08", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024-12-08', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 6754877b-396b11cf-65fbd017'}
+Error fetching openid: {'errcode': 45009, 'errmsg': 'reach max api daily quota limit rid: 6754877b-396b11cf-65fbd017'}
+All OpenIDs: []
+当前没有用户关注该公众号！
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Error opening terminal: unknown.
+Time.py Output: {"date_together": 275, "days_to_liao_birthday": 232, "days_to_wang_birthday": 240}
+
+Data from Time.py: {'date_together': 275, 'days_to_liao_birthday': 232, 'days_to_wang_birthday': 240}
+Raw Output from GetWeather.py: {"date_together": "2024年12月10日", "weather": "小雨转中雨", "temperature_highest": "11", "temperature_lowest": "7"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024年12月10日", "weather": "小雨转中雨", "temperature_highest": "11", "temperature_lowest": "7"}
+Weather Data: {'date_together': '2024年12月10日', 'weather': '小雨转中雨', 'temperature_highest': '11', 'temperature_lowest': '7'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 275, 'days_to_liao_birthday': 232, 'days_to_wang_birthday': 240}
+Weather Data to send: {'date_together': '2024年12月10日', 'weather': '小雨转中雨', 'temperature_highest': '11', 'temperature_lowest': '7'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024年12月10日", "color": "#FF99CC"}, "weather": {"value": "小雨转中雨", "color": "#EA0000"}, "temperature_highest": {"value": "11°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "7°C", "color": "#FF99CC"}, "date_together": {"value": "275天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "232天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "240天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3761484242140790787}
+Data to send: {'date_together': 275, 'days_to_liao_birthday': 232, 'days_to_wang_birthday': 240}
+Weather Data to send: {'date_together': '2024年12月10日', 'weather': '小雨转中雨', 'temperature_highest': '11', 'temperature_lowest': '7'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024年12月10日", "color": "#FF99CC"}, "weather": {"value": "小雨转中雨", "color": "#EA0000"}, "temperature_highest": {"value": "11°C", "color": "#FF99CC"}, "temperature_lowest": {"value": "7°C", "color": "#FF99CC"}, "date_together": {"value": "275天", "color": "#FF99CC"}, "days_to_liao_birthday": {"value": "232天", "color": "#00CCFF"}, "days_to_wang_birthday": {"value": "240天", "color": "#00EC00"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3761484260830527498}
+Time.py Output: {"date_together": 276, "days_to_liao_birthday": 231, "days_to_wang_birthday": 239}
+
+Data from Time.py: {'date_together': 276, 'days_to_liao_birthday': 231, 'days_to_wang_birthday': 239}
+Raw Output from GetWeather.py: {"date_together": "2024年12月11日", "weather": "小雨转阴", "temperature_highest": "9", "temperature_lowest": "6"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024年12月11日", "weather": "小雨转阴", "temperature_highest": "9", "temperature_lowest": "6"}
+Weather Data: {'date_together': '2024年12月11日', 'weather': '小雨转阴', 'temperature_highest': '9', 'temperature_lowest': '6'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 276, 'days_to_liao_birthday': 231, 'days_to_wang_birthday': 239}
+Weather Data to send: {'date_together': '2024年12月11日', 'weather': '小雨转阴', 'temperature_highest': '9', 'temperature_lowest': '6'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024年12月11日", "color": "#FFDEAD"}, "weather": {"value": "小雨转阴", "color": "#4682B4"}, "temperature_highest": {"value": "9°C", "color": "#228B22"}, "temperature_lowest": {"value": "6°C", "color": "#FF99CC"}, "date_together": {"value": "276天", "color": "#483D8B"}, "days_to_liao_birthday": {"value": "231天", "color": "#D8BFD8"}, "days_to_wang_birthday": {"value": "239天", "color": "#D8BFD8"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3762933797847826434}
+Data to send: {'date_together': 276, 'days_to_liao_birthday': 231, 'days_to_wang_birthday': 239}
+Weather Data to send: {'date_together': '2024年12月11日', 'weather': '小雨转阴', 'temperature_highest': '9', 'temperature_lowest': '6'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024年12月11日", "color": "#FFDEAD"}, "weather": {"value": "小雨转阴", "color": "#4682B4"}, "temperature_highest": {"value": "9°C", "color": "#228B22"}, "temperature_lowest": {"value": "6°C", "color": "#FF99CC"}, "date_together": {"value": "276天", "color": "#483D8B"}, "days_to_liao_birthday": {"value": "231天", "color": "#D8BFD8"}, "days_to_wang_birthday": {"value": "239天", "color": "#D8BFD8"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3762933815379935242}
+Time.py Output: {"date_together": 277, "days_to_liao_birthday": 230, "days_to_wang_birthday": 238}
+
+Data from Time.py: {'date_together': 277, 'days_to_liao_birthday': 230, 'days_to_wang_birthday': 238}
+Raw Output from GetWeather.py: {"date_together": "2024年12月12日", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024年12月12日", "weather": "多云", "temperature_highest": "10", "temperature_lowest": "5"}
+Weather Data: {'date_together': '2024年12月12日', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 277, 'days_to_liao_birthday': 230, 'days_to_wang_birthday': 238}
+Weather Data to send: {'date_together': '2024年12月12日', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024年12月12日", "color": "#FFDEAD"}, "weather": {"value": "多云", "color": "#4682B4"}, "temperature_highest": {"value": "10°C", "color": "#228B22"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "277天", "color": "#483D8B"}, "days_to_liao_birthday": {"value": "230天", "color": "#D8BFD8"}, "days_to_wang_birthday": {"value": "238天", "color": "#D8BFD8"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3764383343555641355}
+Data to send: {'date_together': 277, 'days_to_liao_birthday': 230, 'days_to_wang_birthday': 238}
+Weather Data to send: {'date_together': '2024年12月12日', 'weather': '多云', 'temperature_highest': '10', 'temperature_lowest': '5'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024年12月12日", "color": "#FFDEAD"}, "weather": {"value": "多云", "color": "#4682B4"}, "temperature_highest": {"value": "10°C", "color": "#228B22"}, "temperature_lowest": {"value": "5°C", "color": "#FF99CC"}, "date_together": {"value": "277天", "color": "#483D8B"}, "days_to_liao_birthday": {"value": "230天", "color": "#D8BFD8"}, "days_to_wang_birthday": {"value": "238天", "color": "#D8BFD8"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3764383360970309638}
+Time.py Output: {"date_together": 278, "days_to_liao_birthday": 229, "days_to_wang_birthday": 237}
+
+Data from Time.py: {'date_together': 278, 'days_to_liao_birthday': 229, 'days_to_wang_birthday': 237}
+Raw Output from GetWeather.py: {"date_together": "2024年12月13日", "weather": "阴转晴", "temperature_highest": "9", "temperature_lowest": "3"}
+
+Error Output from GetWeather.py: 
+Processed Output from GetWeather.py: {"date_together": "2024年12月13日", "weather": "阴转晴", "temperature_highest": "9", "temperature_lowest": "3"}
+Weather Data: {'date_together': '2024年12月13日', 'weather': '阴转晴', 'temperature_highest': '9', 'temperature_lowest': '3'}
+Fetching openid: Response data: {'total': 2, 'count': 2, 'data': {'openid': ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']}, 'next_openid': 'orthb6soWB11ljawTu-i5N7dfDu4'}
+Fetching openid: Response data: {'total': 2, 'count': 0, 'next_openid': ''}
+Error fetching openid: {'total': 2, 'count': 0, 'next_openid': ''}
+All OpenIDs: ['orthb6pvYiaMAQSsK5mRyvYGITNA', 'orthb6soWB11ljawTu-i5N7dfDu4']
+Data to send: {'date_together': 278, 'days_to_liao_birthday': 229, 'days_to_wang_birthday': 237}
+Weather Data to send: {'date_together': '2024年12月13日', 'weather': '阴转晴', 'temperature_highest': '9', 'temperature_lowest': '3'}
+Sending message body: {"touser": "orthb6pvYiaMAQSsK5mRyvYGITNA", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024年12月13日", "color": "#FFDEAD"}, "weather": {"value": "阴转晴", "color": "#4682B4"}, "temperature_highest": {"value": "9°C", "color": "#228B22"}, "temperature_lowest": {"value": "3°C", "color": "#FF99CC"}, "date_together": {"value": "278天", "color": "#483D8B"}, "days_to_liao_birthday": {"value": "229天", "color": "#D8BFD8"}, "days_to_wang_birthday": {"value": "237天", "color": "#D8BFD8"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3765832892031696899}
+Data to send: {'date_together': 278, 'days_to_liao_birthday': 229, 'days_to_wang_birthday': 237}
+Weather Data to send: {'date_together': '2024年12月13日', 'weather': '阴转晴', 'temperature_highest': '9', 'temperature_lowest': '3'}
+Sending message body: {"touser": "orthb6soWB11ljawTu-i5N7dfDu4", "template_id": "YOjHbwQxdlfYqbJ1LnS1Y7CnWtdHEX9xyxn1F1aT0KE", "url": "https://www.baidu.com/", "topcolor": "#FF0000", "data": {"time": {"value": "2024年12月13日", "color": "#FFDEAD"}, "weather": {"value": "阴转晴", "color": "#4682B4"}, "temperature_highest": {"value": "9°C", "color": "#228B22"}, "temperature_lowest": {"value": "3°C", "color": "#FF99CC"}, "date_together": {"value": "278天", "color": "#483D8B"}, "days_to_liao_birthday": {"value": "229天", "color": "#D8BFD8"}, "days_to_wang_birthday": {"value": "237天", "color": "#D8BFD8"}}}
+Response from WeChat API: {'errcode': 0, 'errmsg': 'ok', 'msgid': 3765832903171686407}
